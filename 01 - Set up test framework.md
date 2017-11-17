@@ -39,7 +39,7 @@ Here's a step-by-step walkthrough of the practical steps, for if you get stuck :
 <p>
 
 1. Install Mocha and add it as a dev dependency for our project
-    - `npm install --save-dev Mocha`
+    - `npm install --save-dev mocha`
 1. Install Chai and add it as a dev dependency for our project
     - `npm install --save-dev chai`
 1. Update your `package.json` so that mocha is executed when `npm test` is called
